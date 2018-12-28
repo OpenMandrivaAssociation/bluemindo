@@ -27,7 +27,7 @@ Bluemindo aims to provide a very simple audio player under
 GNU systems in PyGTK, without any GNOME dependencies.
 
 %prep
-%setup -q -n %{name}-%{version}1RC
+%setup -q -n %{name}-%{version}RC1
 %patch0 -p1 -b .orig
 
 %build
