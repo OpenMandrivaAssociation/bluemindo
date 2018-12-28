@@ -6,7 +6,7 @@ Name:           %{name}
 Summary:        Simple audio player in Python/PyGTK, using GStreamer
 Version:        %{version}
 Release:        %{release}
-Source0:        http://codingteam.net/project/bluemindo/download/file/%{name}-%{version}.tar.gz
+Source0:        http://codingteam.net/project/bluemindo/download/file/%{name}-%{version}rc1.tar.gz
 Patch0:		bluemindo-0.3-makefile.patch
 URL:            http://codingteam.net/project/bluemindo
 License:	GPLv3
