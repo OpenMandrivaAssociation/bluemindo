@@ -8,7 +8,7 @@ Version:        %{version}
 Release:        %{release}
 Source0:        http://codingteam.net/project/bluemindo/download/file/%{name}-%{version}.tar.gz
 Patch0:		bluemindo-0.3-makefile.patch
-URL:            http://codingteam.net/project/bluemindo
+URL:            https://codingteam.net/project/bluemindo
 License:	GPLv3
 Group:          Sound
 Requires:	pygtk2.0 
